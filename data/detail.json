@@ -1,0 +1,110 @@
+[
+    {
+        "detail_id":"1",
+        "title":"MS Word",
+        "imgUrl":"https://freepngimg.com/save/26830-ms-word-photo/512x512",
+        "price":"1000 ",
+        "description":"Microsoft Word is a widely used commercial word processor designed by Microsoft. Microsoft Word is a component of the Microsoft Office suite of productivity software, but can also be purchased as a stand-alone product.Microsoft Word was initially launched in 1983, and has since been revised numerous times. It is available for both Windows and Apple operating systems. Microsoft Word is often called simply Word or MS Word."
+    },
+    {
+        "detail_id":"2",
+        "title":"MS Excel",
+        "imgUrl":"https://w7.pngwing.com/pngs/117/809/png-transparent-microsoft-excel-training-computer-software-microsoft-office-excel-template-angle-text.png",
+        "price":"1000 Tk",
+        "description":"Microsoft Excel is a software program produced by Microsoft that allows users to organize, format and calculate data with formulas using a spreadsheet system.This software is part of the Microsoft Office suite and is compatible with other applications in the Office suite. Like other Microsoft Office products, Microsoft Excel can now be purchased through the cloud on a subscription basis through Office 365."
+    },
+    {
+        "detail_id":"3",
+        "title":"MS Powerpoint",
+        "imgUrl":"https://w1.pngwing.com/pngs/191/367/png-transparent-pdf-logo-microsoft-powerpoint-microsoft-excel-ppt-filename-extension-commaseparated-values-data-text.png",
+        "price":"1000",
+        "description":"Microsoft PowerPoint is a powerful presentation software developed by Microsoft. It is a standard component of the company's Microsoft Office suite software, and is bundled together with Word, Excel and other Office productivity tools.The program uses slides to convey information rich in multimedia and is used to create complex business presentations, simple educational outlines and much more."
+    },
+    {
+        "detail_id":"4",
+        "title":"Adove Photoshop",
+        "imgUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlw7rPpb4R7JwVMFhdVSqo4q_z4Sjey2XwuT4gDy0RNQ&s",
+        "price":"1000",
+        "description":"Photoshop is an image creation, graphic design and photo editing software developed by Adobe. The software provides many image editing features for pixel-based images, raster graphics and vector graphics.Adobe Photoshop was first released in 1988. Created by Thomas and John Knoll, it was initially developed for Macintosh computers but is now available for Windows and macOS platforms.Photoshop is part of the Adobe Creative Cloud, which includes other popular tools such as Adobe Illustrator, Photoshop Lightroom and Adobe Dreamweaver. Photoshop Creative Cloud allows users to work on image and graphic content from anywhere."
+    },
+    {
+        "detail_id":"5",
+        "title":"Adove Illustrator",
+        "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png",
+        "price":"1000",
+        "description":"Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud (Adobe's shift to monthly or annual subscription service delivered over the Internet), Illustrator CC was released. The latest version, Illustrator 2023, was released on October 18, 2022, and is the 27th generation in the product line. Adobe Illustrator was reviewed as the best vector graphics editing program in 2021 by PC Magazine."
+    },            {
+        "detail_id":"6",
+        "title":"Pyton",
+        "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+        "price":"5000",
+        "description":"Today, Python is one of the most popular programming language in the world. Millions of people are using Python programming language for Apps and web development.Python programming language is used for creating Desktop applications/software, Mobile apps, Websites, Windows applications, Driver applications, Artificial intelligence, Machine learning, Data science applications, Hacking.Python programming language is the easiest programming language to learn. As Python is very vast so it takes Long time for getting understood and learnt. Python can be used for App development, Web development, A.I development, Machine learning, Data science and Building applications.Today, In 2023 Python is the most used programming language all over the world. Big tech companies like Google, Microsoft, Apple, Facebook are hiring Python developers for their application development. As Python is very popular and used by various tech companies, So, There are lot of job opportunities after learning Python."
+    },
+    {
+        "detail_id":"7",
+        "title":"Java",
+        "imgUrl":"https://cdn.worldvectorlogo.com/logos/java-1.svg",
+        "price":"5000",
+        "description":"Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc."
+    },
+    {
+        "detail_id":"8",
+        "title":"Javascript",
+        "imgUrl":"https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png",
+        "price":"5000 ",
+        "description":"JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes. It also supports functional programming since functions are first-class that can be easily created via expressions and passed around like any other object."
+    },
+    {
+        "detail_id":"9",
+        "title":"C",
+        "imgUrl":"https://img.freepik.com/free-vector/branding-identity-corporate-c-logo-vector-design-template_460848-13936.jpg",
+        "price":"5000",
+        "description":"C is a procedural programming language initially developed by Dennis Ritchie in the year 1972 at Bell Laboratories of AT&T Labs. It was mainly developed as a system programming language to write the UNIX operating system.Many later languages have borrowed syntax/features directly or indirectly from the C language. Like syntax of Java, PHP, JavaScript, and many other languages are mainly based on the C language. C++ is nearly a superset of C language (Only a few programs may compile in C, but not in C++)."
+    },
+    {
+        "detail_id":"10",
+        "title":"C++",
+        "imgUrl":"https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png",
+        "description":"C++ is a cross-platform language that can be used to create high-performance applications.C++ was developed by Bjarne Stroustrup, as an extension to the C language.C++ gives programmers a high level of control over system resources and memory.The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.C++ is one of the world's most popular programming languages.C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems.C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.C++ is portable and can be used to develop applications that can be adapted to multiple platforms.C++ is fun and easy to learn!As C++ is close to C, C# and Java, it makes it easy for programmers to switch to C++ or vice versa.C++ was developed as an extension of C, and both languages have almost the same syntax.The main difference between C and C++ is that C++ support classes and objects, while C does not."
+    },            {
+        "detail_id":"11",
+        "title":"HTML",
+        "imgUrl":"https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082014/html5_0.png?itok=piXl_C7P",
+        "price":"500",
+        "description":"HTML stands for HyperText Markup Language. It is used to design web pages using a markup language. HTML is the combination of Hypertext and Markup language. Hypertext defines the link between web pages. A markup language is used to define the text document within the tag which defines the structure of web pages. This language is used to annotate (make notes for the computer) text so that a machine can understand it and manipulate text accordingly. Most markup languages (e.g. HTML) are human-readable. The language uses tags to define what manipulation has to be done on the text. "
+    },
+    {
+        "detail_id":"12",
+        "title":"CSS",
+        "imgUrl":"https://img.freepik.com/premium-vector/cascading-style-sheets-css-label-high-performance-vector-stock-illustration_100456-8387.jpg?w=2000",
+        "price":"500",
+        "description":"CSS stands for Cascading Style Sheets. It is the language for describing the presentation of Web pages, including colours, layout, and fonts, thus making our web pages presentable to the users.CSS is designed to make style sheets for the web. It is independent of HTML and can be used with any XML-based markup language. Now let’s try to break the acronym:Cascading: Falling of Styles.Style: Adding designs/Styling our HTML tagsSheets: Writing our style in different documents"
+    },          {
+        "detail_id":"13",
+        "title":"Javascript",
+        "imgUrl":"https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png",
+        "price":"5000",
+        "description":"JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes. It also supports functional programming since functions are first-class that can be easily created via expressions and passed around like any other object."
+    },          {
+        "detail_id":"14",
+        "title":"React",
+        "imgUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+        "price":"5000",
+        "description":"ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community.ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram.Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components, ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more."
+    },          
+    {
+        "detail_id":"15",
+        "title":"Node js",
+        "imgUrl":"https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png",
+        "price":"5000",
+        "description":"Node.js is written in C, C++, and JavaScript.Wikipedia defines Node.js as “a packaged compilation of Google’s V8 JavaScript engine, the libuv platform abstraction layer, and a core library, which is itself primarily written in JavaScript.The runtime uses Chrome V8 internally, which is the JavaScript execution engine, and it’s also written in C++. This adds additional use cases to Node.js’s repertoire, such as accessing internal system functionality (like networking)."
+    },          {
+        "detail_id":"16",
+        "title":"Express js",
+        "imgUrl":"https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png",
+        "price":"5000",
+        "description":"Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application.It's a layer built on the top of the Node js that helps manage servers and routes."
+    }
+
+
+]

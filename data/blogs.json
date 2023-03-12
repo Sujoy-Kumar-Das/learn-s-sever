@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "title":"what is cors?",
+        "detail":"Cross-origin resource sharing (CORS) is a browser mechanism which enables controlled access to resources located outside of a given domain. It allow to connect one domain to another domain what ever the client and server side domain is not same."
+    },
+    {
+        "id":"2",
+        "title":"Why are you using firebase? What other options do you have to implement authentication?",
+        "detail":"Google Analytics For Firebase, Realtime Database & Firestore,Authentication,Crashlytics,Free Use of Dynamic Links"
+    },
+    {
+        "id":"3",
+        "title":"How does the private route work?",
+        "detail":"The react private route component renders child components (children) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property."
+    },
+    {
+        "id":"4",
+        "title":"What is Node? How does Node work?",
+        "detail":"Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). Node.js was developed by Ryan Dahl in 2009 and its latest version is v0.10.36.Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, and Linux.Node.js simply enters the event loop after executing the input script. Node.js exits the event loop when there are no more callbacks to perform. This behavior is like browser JavaScript — the event loop is hidden from the user."
+    }
+]
